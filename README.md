@@ -38,7 +38,7 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 ## server side rendering
 
-*** nextjs is server side rendering , suppose user have request https://hulu2-0-web-app-adarsh.vercel.app/ on browsers, so by default the next.js server are installed on my browsers and when users request our website on browsers, so the next.js render the require data with help of props with help of javascript, this means users are seen are page very immediately. ***
+*** nextjs is server side rendering , suppose user have request on browsers, so by default the next.js server are installed on my browsers and when users request our website on browsers, so the next.js render the require data with help of props with help of javascript, this means users are seen are page very immediately. ***
 
 *** next js convert yout jpg,png image into webp on server to fetch image on client side immediately and only deliver the image size file for the device you want out of the box ***
 
