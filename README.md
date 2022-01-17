@@ -20,23 +20,23 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 ## Technology we are using
 
-##next.js
+## next.js
 
-##taliwind css
+## taliwind css
 
-##rest api
+## rest api
 
-##heroicon
+## heroicon
 
-##tmdb api
+## tmdb api
 
-##flex box
+## flex box
 
-##css grid
+## css grid
 
-##jit compiler
+## jit compiler
 
-##server side rendering
+## server side rendering
 
 *** nextjs is server side rendering , suppose user have request https://hulu2-0-web-app-adarsh.vercel.app/ on browsers, so by default the next.js server are installed on my browsers and when users request our website on browsers, so the next.js render the require data with help of props with help of javascript, this means users are seen are page very immediately. ***
 
