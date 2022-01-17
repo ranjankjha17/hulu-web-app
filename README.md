@@ -18,17 +18,45 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-## Learn More
+## Technology we are using
+##next.js
+##taliwind css
+##rest api
+##heroicon
+##tmdb api
+##flex box
+##css grid
+##jit compiler
+##server side rendering
 
-To learn more about Next.js, take a look at the following resources:
+*** nextjs is server side rendering , suppose user have request https://hulu2-0-web-app-adarsh.vercel.app/ on browsers, so by default the next.js server are installed on my browsers and when users request our website on browsers, so the next.js render the require data with help of props with help of javascript, this means users are seen are page very immediately. ***
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+*** next js convert yout jpg,png image into webp on server to fetch image on client side immediately and only deliver the image size file for the device you want out of the box ***
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+*** Next js automaticaaly resize the image depend upon your device resolution means #lower resolution image for lower resolution devices ***
+#higher resolution image for hight resolution device like 3k, 4k, 5k , 12k, which is awesome ***
 
-## Deploy on Vercel
+## Important command
+*** create next app with npx *** npx create-next-app [your app name]
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+*** Install tailwind via npm *** npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+*** For Create your configuration files for tailwind *** npx tailwindcss init -p
+
+*** eslint tips and tricks ***
+
+_rfce ,command for create a function components
+
+*** Props in react are basically allows to reuse a components is a fundamental to write code once and use in many times ***
+
+*** Install heroicon via npm *** npm install @heroicons/react
+
+*** hide tailwind scrollbar via npm *** npm install tailwind-scrollbar-hide
+
+*** Install react flipmove via npm *** npm install react-flip-move
+
+*** next.js docs *** https://nextjs.org/docs
+
+*** heroicons url *** https://heroicons.dev/
+
+*** Tailwind css docs *** https://tailwindcss.com/docs
