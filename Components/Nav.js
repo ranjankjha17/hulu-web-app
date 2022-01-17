@@ -1,5 +1,3 @@
-//https://github.com/adarshtiwari1998/hulu2.0-web-app/blob/main/utils/requests.js
-
 import React from 'react'
 import requests from '../utils/requests'
 import {useRouter} from 'next/router'
