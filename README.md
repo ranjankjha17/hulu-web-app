@@ -19,14 +19,23 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
 ## Technology we are using
+
 ##next.js
+
 ##taliwind css
+
 ##rest api
+
 ##heroicon
+
 ##tmdb api
+
 ##flex box
+
 ##css grid
+
 ##jit compiler
+
 ##server side rendering
 
 *** nextjs is server side rendering , suppose user have request https://hulu2-0-web-app-adarsh.vercel.app/ on browsers, so by default the next.js server are installed on my browsers and when users request our website on browsers, so the next.js render the require data with help of props with help of javascript, this means users are seen are page very immediately. ***
